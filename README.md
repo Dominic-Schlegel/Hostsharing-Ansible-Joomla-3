@@ -1,6 +1,6 @@
 Hostsharing-Ansible-Joomla-3
 ============================
-This Ansible playbook will install Joomla 3.3.6 stable on a server from www.hostsharing.net.
+This Ansible playbook will install Joomla 3.4.5 stable on a server from www.hostsharing.net.
 
 To use these modules we have to create a file named ".hsadmin.properties" in the home directory of the package admins. In it we have to insert the packagename and password of the package admin. 
 
